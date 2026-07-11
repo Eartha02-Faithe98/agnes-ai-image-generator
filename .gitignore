@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# 環境設定（含 API Key，嚴禁上傳）
+.env
+
+# 生成的圖片（可選是否排除）
+output/
+
+# IDE
+.vscode/
+.idea/
